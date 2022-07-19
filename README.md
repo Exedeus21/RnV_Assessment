@@ -7,4 +7,4 @@ This repo has been developed for RnV Analytics.
 
 
 ### Streamlit
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://exedeus21-rnv-assessment-prediction-x520z6.streamlitapp.com/)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://exedeus21-rnv-assessment-prediction-u5jybb.streamlitapp.com/)
